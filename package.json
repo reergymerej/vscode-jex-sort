@@ -2,6 +2,7 @@
   "name": "vscode-jex-sort",
   "displayName": "vscode-jex-sort",
   "description": "sort lines in the editor",
+  "publisher": "reergymerej",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.41.0"
