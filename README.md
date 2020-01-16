@@ -4,6 +4,8 @@ This is an extension that allows you to sort/reorder lines various ways.
 
 ## Features
 
+![demo](demo.png)
+
 * reverse
 * sort naturally
 * sort reverse/unnaturally(?)
