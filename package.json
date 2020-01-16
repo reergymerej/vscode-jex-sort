@@ -3,6 +3,7 @@
   "displayName": "vscode-jex-sort",
   "description": "sort lines in the editor",
   "publisher": "reergymerej",
+  "repository": "https://github.com/reergymerej/vscode-jex-sort",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.41.0"
